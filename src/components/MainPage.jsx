@@ -11,9 +11,10 @@ const MainPage = () => {
   };
 
   const searchWeather = () => {
-    let apiKey = import.meta.env.VITE_API_KEY;
     fetch(
-      `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=imperial`
+      `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${
+        import.meta.env.VITE_API_KEY
+      }&units=imperial`
     )
       .then((res) => res.json())
       .then((res) => {
