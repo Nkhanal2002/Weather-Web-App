@@ -60,7 +60,7 @@ The Weather App is a modern web application built with React.js, TailwindCSS, an
 
 ## License
 
-This project is licensed under the MIT License. See LICENSE for more details.
+This project is licensed under the MIT License. See [LICENSE](https://github.com/Nkhanal2002/Weather-Web-App/blob/main/LICENSE) for more details.
 
 ## Acknowledgments
 
