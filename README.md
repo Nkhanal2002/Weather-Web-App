@@ -30,22 +30,38 @@ The Weather App is a modern web application built with React.js, TailwindCSS, an
 ### Steps
 
 1. **Clone the Repository:**
-   `git clone https://github.com/yourusername/weather-app.git`
+   ``` bash
+   git clone https://github.com/yourusername/weather-app.git
+   ```      
 
-2. **Navigate to the Project Directory:**
-   `cd weather-app`
+3. **Navigate to the Project Directory:**
+   ``` bash
+   cd weather-app
+   ```
 
-3. **Install Dependencies:**
-   `npm install`
+5. **Install Dependencies:**
+   ```bash
+   npm install
+   
+   # or
+   yarn install
+   ```
 
-4. **Set Up Environment Variables:**
+7. **Set Up Environment Variables:**
 
    - Create a `.env` file in the root directory of the project.
    - Add your OpenWeather API key:
-     `VITE_OPENWEATHER_API_KEY=your_api_key_here`
+     ```bash
+     VITE_OPENWEATHER_API_KEY=your_api_key_here
+     ```
 
-5. **Run the Application:**
-   `npm run dev`
+8. **Run the Application:**
+   ```bash
+   npm run dev
+   
+   # or
+   yarn dev
+   ```
 
 ## Usage
 
