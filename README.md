@@ -31,7 +31,7 @@ The Weather App is a modern web application built with React.js, TailwindCSS, an
 
 1. **Clone the Repository:**
    ``` bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/Nkhanal2002/Weather-Web-App.git
    ```      
 
 3. **Navigate to the Project Directory:**
