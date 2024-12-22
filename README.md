@@ -36,7 +36,7 @@ The Weather App is a modern web application built with React.js, TailwindCSS, an
 
 3. **Navigate to the Project Directory:**
    ``` bash
-   cd weather-app
+   cd Weather-Web-App
    ```
 
 5. **Install Dependencies:**
